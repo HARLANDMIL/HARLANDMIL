@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hey Fellow Innovators 👋
 
+I am Milton a bit unconventional but I guess thats okay.
 <!--
 **HARLANDMIL/HARLANDMIL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
